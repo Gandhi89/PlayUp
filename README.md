@@ -1,8 +1,8 @@
 # playUp
 
-PlayUp is an interactive gaming experience that lets you use your smartphone to answer trivia and play games with other moviegoers in real time
+PlayUp is an interactive gaming experience that lets you use your smartphone to answer trivia and play games with other moviegoers in real time.
 
-
+# Demo
 
 // ---------------------------------- Server Side ---------------------------------- //
 
