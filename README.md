@@ -11,4 +11,4 @@ PlayUp is an interactive gaming experience that lets you use your smartphone to 
 
 `Xcode`
 
-`Firebase datbase`
+`Firebase database`
