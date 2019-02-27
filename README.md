@@ -4,17 +4,6 @@ PlayUp is an interactive gaming experience that lets you use your smartphone to 
 
 # Demo
 
-// ---------------------------------- Server Side ---------------------------------- //
+![Alt Text](https://github.com/Gandhi89/playUp/blob/master/gifs/playUp-server(v2).gif)
 
-
-
-![Alt Text](https://github.com/Gandhi89/playUp/blob/master/gifs/playUp-server.gif)
-
-
-
-
-// ---------------------------------- Player Side ---------------------------------- //
-
-
-
-![Alt Text](https://github.com/Gandhi89/playUp/blob/master/gifs/playUp-player.gif)
+![Alt Text](https://github.com/Gandhi89/playUp/blob/master/gifs/playUp-player(v2).gif)
